@@ -1,0 +1,45 @@
+.addit input{
+    background-color: rgb(161 234 253 / 0.8);
+    color: #ec8edd;
+    border-radius: 5px 0 0 5px;
+    border: 2px solid #54dffb;
+    padding: 5px;
+    margin-top: 2%;
+
+    width: 350px;
+    margin-bottom: 4%;
+}
+.addit button{
+    background-color: #54dffb;
+    color: #d872c7;
+    border-radius:  0 5px 5px 0;
+    border: 2px solid #54dffb;
+    padding: 5px;
+    margin-bottom: 4%;
+    margin-top: 7px;
+}
+.addit{
+    display: flex;
+}
+.form{
+    display: flex;
+    flex-direction: row;
+    margin-left: 27%;
+}
+.select{
+    margin-left: 5%;
+    margin-top: 7px;
+  
+}
+.filter{
+    background-color: #54dffb;
+    color: #d872c7;
+    border-radius: 5px;
+    border: 2px solid #3dbdd6;
+    padding: 5px;
+    margin-bottom: 4%;
+    text-align: center;
+    font-size: 0.5cm;
+    width: 90px;
+}
+

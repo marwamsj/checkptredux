@@ -1,0 +1,11 @@
+.App h1{
+  background-color: rgb(161 234 253 / 0.6);
+    color: #ec8edd;
+    padding: 10px 5px;
+    text-align: center;
+    margin: 3% 38%;
+    font-size: 3rem;
+    border-radius: 15px;
+    border: 2px solid #54dffb;
+}
+ 
